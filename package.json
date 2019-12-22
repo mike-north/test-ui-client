@@ -31,9 +31,9 @@
     "libkit": "0.6.0",
     "qunit": "2.6.1",
     "qunit-metadata": "1.2.3",
-    "semantic-release": "15.13.12",
+    "semantic-release": "15.14.0",
     "shelljs": "0.8.3",
-    "travis-deploy-once": "5.0.1",
+    "travis-deploy-once": "5.0.11",
     "tslint": "5.17.0",
     "typescript": "2.9.2"
   },
