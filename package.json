@@ -26,10 +26,10 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@types/qunit": "2.5.1",
+    "@types/qunit": "2.19.10",
     "ember-cli": "3.10.1",
     "libkit": "0.6.0",
-    "qunit": "2.6.1",
+    "qunit": "2.20.1",
     "qunit-metadata": "1.2.3",
     "semantic-release": "15.13.12",
     "shelljs": "0.8.3",
